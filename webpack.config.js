@@ -61,8 +61,5 @@ module.exports = {
         use: ["file-loader"],
       },
     ],
-  },
-  devServer: {
-    hot: true
-  },
+  }
 };
